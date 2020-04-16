@@ -1,0 +1,9 @@
+G:\Mile\SocketClientBeta\MutilThread\bin\Debug\netcoreapp3.1\MutilThread.deps.json
+G:\Mile\SocketClientBeta\MutilThread\bin\Debug\netcoreapp3.1\MutilThread.dll
+G:\Mile\SocketClientBeta\MutilThread\bin\Debug\netcoreapp3.1\MutilThread.pdb
+G:\Mile\SocketClientBeta\MutilThread\obj\Debug\netcoreapp3.1\MutilThread.csprojAssemblyReference.cache
+G:\Mile\SocketClientBeta\MutilThread\obj\Debug\netcoreapp3.1\MutilThread.csproj.CoreCompileInputs.cache
+G:\Mile\SocketClientBeta\MutilThread\obj\Debug\netcoreapp3.1\MutilThread.AssemblyInfoInputs.cache
+G:\Mile\SocketClientBeta\MutilThread\obj\Debug\netcoreapp3.1\MutilThread.AssemblyInfo.cs
+G:\Mile\SocketClientBeta\MutilThread\obj\Debug\netcoreapp3.1\MutilThread.dll
+G:\Mile\SocketClientBeta\MutilThread\obj\Debug\netcoreapp3.1\MutilThread.pdb

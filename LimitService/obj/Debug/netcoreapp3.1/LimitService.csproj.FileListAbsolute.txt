@@ -1,0 +1,9 @@
+G:\Mile\SocketClientBeta\LimitService\bin\Debug\netcoreapp3.1\LimitService.deps.json
+G:\Mile\SocketClientBeta\LimitService\bin\Debug\netcoreapp3.1\LimitService.dll
+G:\Mile\SocketClientBeta\LimitService\bin\Debug\netcoreapp3.1\LimitService.pdb
+G:\Mile\SocketClientBeta\LimitService\obj\Debug\netcoreapp3.1\LimitService.csprojAssemblyReference.cache
+G:\Mile\SocketClientBeta\LimitService\obj\Debug\netcoreapp3.1\LimitService.csproj.CoreCompileInputs.cache
+G:\Mile\SocketClientBeta\LimitService\obj\Debug\netcoreapp3.1\LimitService.AssemblyInfoInputs.cache
+G:\Mile\SocketClientBeta\LimitService\obj\Debug\netcoreapp3.1\LimitService.AssemblyInfo.cs
+G:\Mile\SocketClientBeta\LimitService\obj\Debug\netcoreapp3.1\LimitService.dll
+G:\Mile\SocketClientBeta\LimitService\obj\Debug\netcoreapp3.1\LimitService.pdb

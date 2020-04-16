@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SocketClientBeta/1.0.0": {
+        "dependencies": {
+          "LimitService": "1.0.0",
+          "MutilThread": "1.0.0"
+        },
+        "runtime": {
+          "SocketClientBeta.dll": {}
+        }
+      },
+      "LimitService/1.0.0": {
+        "runtime": {
+          "LimitService.dll": {}
+        }
+      },
+      "MutilThread/1.0.0": {
+        "runtime": {
+          "MutilThread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketClientBeta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LimitService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MutilThread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
