@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9R8/Dp45Oxn7ioUFwqrwHG72t4Qy7u+N7NmJM9FMFGuSBClKk/4iqmiCwUOL84TuqstvdZyzb5uhjqPP/c1iGg==",
+  "dgSpecHash": "NG1RDg7Hx7Uu/iJw2HAO7wJvpXG29YpqamT5FjCcUZd4BsOx7N+OaVtfYQM3bYXrT0K6/+oRjYhJsiWcXYIxbA==",
   "success": true,
-  "projectFilePath": "G:\\Mile\\SocketClientBeta\\LimitService\\LimitService.csproj",
+  "projectFilePath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\LimitService\\LimitService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

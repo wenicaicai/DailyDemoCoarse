@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mile\\SocketClientBeta\\RequestsPerSecond\\RequestsPerSecond.csproj": {}
+    "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\RequestsPerSecond\\RequestsPerSecond.csproj": {}
   },
   "projects": {
-    "G:\\Mile\\SocketClientBeta\\RequestsPerSecond\\RequestsPerSecond.csproj": {
+    "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\RequestsPerSecond\\RequestsPerSecond.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mile\\SocketClientBeta\\RequestsPerSecond\\RequestsPerSecond.csproj",
+        "projectUniqueName": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\RequestsPerSecond\\RequestsPerSecond.csproj",
         "projectName": "RequestsPerSecond",
-        "projectPath": "G:\\Mile\\SocketClientBeta\\RequestsPerSecond\\RequestsPerSecond.csproj",
+        "projectPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\RequestsPerSecond\\RequestsPerSecond.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Mile\\SocketClientBeta\\RequestsPerSecond\\obj\\",
+        "outputPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\RequestsPerSecond\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

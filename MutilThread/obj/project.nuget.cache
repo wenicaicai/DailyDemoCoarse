@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a5Ms/5vYTYemOPYfsaarZVBCVLv4b2F3YRJgqm6wsmZe/9Jh3mCakujMhHceKqoRG8+VnB/XbSRCoqKrQEg5Mg==",
+  "dgSpecHash": "/g33y3DO1+08Zcks7fhvfW5AGksJD7eTlza4UoXWE6eO8cmBp2+I+FbNSIr+sm9lXyAKDqBAXmG8StwnIXVD8w==",
   "success": true,
-  "projectFilePath": "G:\\Mile\\SocketClientBeta\\MutilThread\\MutilThread.csproj",
+  "projectFilePath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\MutilThread\\MutilThread.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

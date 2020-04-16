@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mile\\SocketClientBeta\\LimitService\\LimitService.csproj",
+      "projectUniqueName": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\LimitService\\LimitService.csproj",
       "projectName": "LimitService",
-      "projectPath": "G:\\Mile\\SocketClientBeta\\LimitService\\LimitService.csproj",
+      "projectPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\LimitService\\LimitService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\Mile\\SocketClientBeta\\LimitService\\obj\\",
+      "outputPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\LimitService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

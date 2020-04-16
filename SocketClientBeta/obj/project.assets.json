@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Mile\\SocketClientBeta\\SocketClientBeta\\SocketClientBeta.csproj",
+      "projectUniqueName": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\SocketClientBeta\\SocketClientBeta.csproj",
       "projectName": "SocketClientBeta",
-      "projectPath": "G:\\Mile\\SocketClientBeta\\SocketClientBeta\\SocketClientBeta.csproj",
+      "projectPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\SocketClientBeta\\SocketClientBeta.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\Mile\\SocketClientBeta\\SocketClientBeta\\obj\\",
+      "outputPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\SocketClientBeta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -72,11 +72,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "G:\\Mile\\SocketClientBeta\\LimitService\\LimitService.csproj": {
-              "projectPath": "G:\\Mile\\SocketClientBeta\\LimitService\\LimitService.csproj"
+            "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\LimitService\\LimitService.csproj": {
+              "projectPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\LimitService\\LimitService.csproj"
             },
-            "G:\\Mile\\SocketClientBeta\\MutilThread\\MutilThread.csproj": {
-              "projectPath": "G:\\Mile\\SocketClientBeta\\MutilThread\\MutilThread.csproj"
+            "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\MutilThread\\MutilThread.csproj": {
+              "projectPath": "G:\\Mile\\SocketClientBeta\\DailyDemoCoarse\\MutilThread\\MutilThread.csproj"
             }
           }
         }
